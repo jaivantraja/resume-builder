@@ -1,0 +1,25 @@
+#parentContainer
+{
+    -fx-background-color:linear-gradient(to bottom right,#2f3f89,#9231b5);
+}
+#anchor1,#anchor2
+{
+    -fx-background-color:linear-gradient(to bottom right,#2f3f89,#9231b5);
+}
+#anchor3,#anchor4
+{
+    -fx-background-color:linear-gradient(to bottom right,#9231b5,#2f3f89);
+}
+#button1,#button2
+{
+    -fx-background-color:none;
+}
+#cancelbutton
+{
+    -fx-background-color:none;
+}
+#myresumebtn,#createresumetbtn,#accountbutton,#sendresumebtn,#sendreplybtn,#resumebtn,#mapbtn{
+    -fx-background-color:none;
+}
+
+
